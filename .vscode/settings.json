@@ -1,0 +1,23 @@
+{
+  "workbench.colorCustomizations": {
+    "[One Monokai]": {
+      "editorLineNumber.foreground": "#a1bcd8",
+      "editor.foreground": "#9ec9f7"
+    },
+    "[Community Material Theme Palenight High Contrast]": {
+      "editorLineNumber.foreground": "#a1bcd8",
+      "editor.background": "#1B1E2B",
+      "editor.foreground": "#8abdf3"
+    },
+    "[Community Material Theme Darker High Contrast]": {
+      "editor.background": "#1B1E2B",
+      "sideBar.background": "#1B1E2B",
+      "terminal.background": "#1B1E2B",
+      "editorLineNumber.foreground": "#a1bcd8",
+      "editor.foreground": "#8abdf3"
+    },
+    "activityBar.background": "#4E1E22",
+    "titleBar.activeBackground": "#6E2B30",
+    "titleBar.activeForeground": "#FEFBFC"
+  }
+}
